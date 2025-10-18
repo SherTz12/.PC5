@@ -1,0 +1,13 @@
+normal crawl
+
+all information
+
+start:  0303 19:41:00
+finish:  0304 4:15:58
+
+	video	time
+0	167	38
+1	1440	567
+2	8689	3895
+3	58047	26398
+total	68343	30898	
